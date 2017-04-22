@@ -1,0 +1,29 @@
+{
+    "name": "micelle-server",
+    "version": "1.0.0",
+    "description": "micelle extension server project.",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lsytj0413/micelle-server.git"
+    },
+    "keywords": [
+        "micelle",
+        "extension"
+    ],
+    "author": "Soren Yang",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/lsytj0413/micelle-server/issues"
+    },
+    "homepage": "https://github.com/lsytj0413/micelle-server#readme",
+    "dependencies": {
+        "express": "",
+        "body-parser": "",
+        "cookie-parser": "",
+        "multer": ""
+    }
+}
